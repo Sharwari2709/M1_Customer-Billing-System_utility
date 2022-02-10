@@ -7,7 +7,7 @@ Linux Certificate
 Github Learning
 ![image](https://user-images.githubusercontent.com/83021508/153450820-82664114-c793-4481-942d-2266808c6dcd.png)
 
-HackerEart points
+HackerEarth points
 ![image](https://user-images.githubusercontent.com/83021508/153451330-67ecdfaa-f43f-4a58-ac88-3a23088c7c50.png)
 
 
