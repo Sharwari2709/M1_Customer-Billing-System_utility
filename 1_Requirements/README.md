@@ -1,12 +1,12 @@
 **CUSTOMER BILLING SYSYTEM**
 
 **DESCRIPTION** - 
->The Customer Billing System is developed in C programming language.It is a simple console application which can be used in any departmental store, shops, cafes etc. for billing to the customer.  we can keep a record of the customer name, amount due, the amount paid, mobile number with purchased items.
+The Customer Billing System is developed in C programming language.It is a simple console application which can be used in any departmental store, shops, cafes etc. for billing to the customer.  we can keep a record of the customer name, amount due, the amount paid, mobile number with purchased items.
 
 **HIGH LEVEL REQUIREMENTS**-
-•	The Customer Billing System project  gives us the facility of searching the account by two ways, either by name of the customer or by the number of customer.
-•	 The date variables (day, month and year) have been grouped in the structures named date where as other variables such as name, number, street, paid amount etc. are grouped under another structure named account.
-•	It can hold any number of accounts and account can be added to the program at any time.
+-	The Customer Billing System project  gives us the facility of searching the account by two ways, either by name of the customer or by the number of customer.
+- The date variables (day, month and year) have been grouped in the structures named date where as other variables such as name, number, street, paid amount etc. are grouped under another structure named account.
+-	It can hold any number of accounts and account can be added to the program at any time.
 
 **LOW LEVEL REQUIREMENTS**-
 •	Calculation of due amount,balance etc.
