@@ -51,6 +51,7 @@ The major user defined functions used in this C project are:
 -	void writefile()
 -	void search()
 -	void output()
+
  In order to use the application, click at the exe file and then, you will have three options to:
 1.	To add account
 2.	To search account
