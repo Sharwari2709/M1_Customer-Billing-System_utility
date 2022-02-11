@@ -9,44 +9,48 @@ The Customer Billing System is developed in C programming language.It is a simpl
 -	It can hold any number of accounts and account can be added to the program at any time.
 
 **LOW LEVEL REQUIREMENTS**-
-•	Calculation of due amount,balance etc.
-•	Due amount to be paid is shown as negative balance.
+-	Calculation of due amount,balance etc.
+-	Due amount to be paid is shown as negative balance.
 
 **SWOT Analysis-**
 
 **STRENGTHS**-
-•	It provides faster billing.
-•	Easy access to information.
-•	Reduces material costing that comes with manual billing and filing.
+-	It provides faster billing.
+-	Easy access to information.
+-	Reduces material costing that comes with manual billing and filing.
 
 **WEAKNESS**-
-•	Irregularity of updates can lead to hardships and hassles between purchases and credits.
-•	Graphics has not been used in this project.
+-	Irregularity of updates can lead to hardships and hassles between purchases and credits.
+-	Graphics has not been used in this project.
 
 **OPPORTUNITIES**-
-•	This project helps for the beginners of c programming.
-•	Improved customer journey.
+-	This project helps for the beginners of c programming.
+-	Improved customer journey.
 
 **THREATS-**
-•	Requires personal data of people and encryption of data is not enabled in this program.
+-	Requires personal data of people and encryption of data is not enabled in this program.
 
 **4W’S & 1H**-
 
 **WHO**-
+
 I m the only person handling this project.
 
 **WHAT**-
+
 I m creating a console application called customer billing system.It is designed by using c programming.
 
 **WHERE**-
+
 The project is done in the Visual studio on my system and it is delivered to my github repository.
 
 **HOW**-
+
 The major user defined functions used in this C project are:
-•	void input()
-•	void writefile()
-•	void search()
-•	void output()
+-	void input()
+-	void writefile()
+-	void search()
+-	void output()
  In order to use the application, click at the exe file and then, you will have three options to:
 1.	To add account
 2.	To search account
