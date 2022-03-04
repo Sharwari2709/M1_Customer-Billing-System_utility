@@ -14,29 +14,31 @@ void delay()
  void search();
  void output();
 
-
+void gotoxy()
+{
+	
+}
   
 
  void input()
 {
 	 
-   }
+ }
 
-   void writefile()
-   {
+  void writefile()
+  {
 
-   }
+  }
 
-   void search()
-   {
+  void search()
+  {
 	
 			
-	 }
+  }
 
 
-
-   void output()
-	 {
+  void output()
+ {
 	  
-	      }
+  }
 	    
